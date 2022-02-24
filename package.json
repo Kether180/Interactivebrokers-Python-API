@@ -1,0 +1,21 @@
+{
+  "name": "clientportal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.7"
+  }
+}

@@ -1,0 +1,11 @@
+request==2.22.00
+urllib3==1.25.3
+certifi=2019.11.28
+os
+sys
+json
+time
+pathlib
+urllib
+requests
+subprocess
