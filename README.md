@@ -1,19 +1,5 @@
 # Unofficial Interactive Brokers API
 # Master Account #: 
-DU5001780
-Username: btrad5149
-Password: test1234
- 
-Sub Account 1: DU5001781
-Username btrad5150
-Password: test1234
-001780
-DU5001781
-
-Sub Account 1: DU5001781
-Username btrad5150
-Password: test1234
-
 
 ## Overview
 
